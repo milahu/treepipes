@@ -93,6 +93,29 @@ focus on GraphQL
 - https://github.com/staltz/xstream - 2K stars - javascript - functional reactive stream library
 - https://github.com/cyclejs/cyclejs - 10K stars - javascript - functional and reactive JavaScript framework
   - based on: [most](https://github.com/cujojs/most), [rxjs](https://github.com/ReactiveX/rxjs), [xstream](https://github.com/staltz/xstream)
+  
+### program-transformation
+
+- https://github.com/topics/program transformation
+- https://github.com/comby-tools/comby - 2K stars - ocaml - A code rewrite tool for structural search and replace that supports ~every language
+
+### source to source compilers
+
+- https://github.com/topics/source-to-source
+- https://github.com/topics/transpiler
+- https://github.com/topics/refactoring-tools
+- https://github.com/onelang/OneLang - 1K stars - javascript - TypeScript, C#, Ruby &rarr; C++, C#, Go, Java, JS, Perl, PHP, Python, Ruby, Swift, TypeScript
+  - https://github.com/onelang/OneLang/wiki/OneLang-vs.-Haxe-vs.-Progsbase-comparison
+- https://github.com/jarble/transpiler - 400 stars - javascript - A universal translator for programming languages
+- https://github.com/usethesource/rascal - 300 stars - java
+- https://haxe.org - haxe &rarr; AS2, AS3, C++, C#, Java, JS, Lua, Neko, PHP, Python	
+- https://www.progsbase.com/ - java &rarr; Java, C, C++, JavaScript, C#, R, PHP, Python, Visual Basic
+- https://github.com/pfusik/cito - cito &rarr; C, C++, C#, Java, JavaScript, Python, Swift, TypeScript, OpenCL C
+- https://github.com/oven-sh/bun - 40K stars - Zig - JavaScript runtime, bundler, transpiler, package manager. TS, TSX, JSX, MJS, CJS &rarr; JS
+- https://github.com/pseudo-lang/pseudo - 700 stars - python - Pseudo &rarr; JS, Go, C#, Ruby
+- https://github.com/jtransc/jtransc - Java, Kotlin, Scala &rarr; X
+- https://github.com/akameco/s2s - 300 stars - javascript - based on Babel
+- https://github.com/LangTrans/LangTrans - 20 stars - python
 
 ## incremental printing
 
