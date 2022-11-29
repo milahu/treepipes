@@ -75,6 +75,13 @@ focus on GraphQL
   - https://www.nikolasgoebel.com/2018/09/13/incremental-datalog.html - a method of continuously executing Datalog queries over data streams, by compiling them to differential dataflows
   - https://github.com/sixthnormal/clj-3df - 300 stars - Clojure - Clojure(Script) client for Declarative Dataflow
 
+### functional reactive programming
+
+- https://en.wikipedia.org/wiki/Functional_reactive_programming
+- https://github.com/search?o=desc&q=functional+reactive+programming&s=stars&type=Repositories
+- https://github.com/baconjs/bacon.js - 6K stars - javascript
+- https://github.com/paldepind/flyd - 2K stars - javascript
+
 ## incremental printing
 
 TODO
@@ -86,3 +93,4 @@ TODO
   - based on https://github.com/TimelyDataflow/differential-dataflow - 2K stars - Rust - implementation of differential dataflow using timely dataflow on Rust
 - https://github.com/milahu/nix-eval-js/blob/main/docs/incremental-computing.md
 - https://github.com/milahu/nix-eval-js/blob/main/docs/normal-form.md
+- https://github.com/milahu/nix-eval-js/tree/main/docs#lazy-evaluation
