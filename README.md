@@ -90,6 +90,7 @@ focus on GraphQL
 - https://github.com/baconjs/bacon.js - 6K stars - javascript
 - https://github.com/paldepind/flyd - 2K stars - javascript
 - https://github.com/SodiumFRP/sodium-rust - 50 stars - rust - A Functional Reactive Programming (FRP) library for Rust
+- https://github.com/staltz/xstream - 2K stars - javascript - functional reactive stream library
 
 ## incremental printing
 
