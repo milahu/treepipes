@@ -74,5 +74,6 @@ TODO
 
 ## see also
 
+- https://figwheel.org/docs/reloadable_code.html - live coding system in clojurescript, based on google closure compiler
 - https://github.com/milahu/nix-eval-js/blob/main/docs/incremental-computing.md
 - https://github.com/milahu/nix-eval-js/blob/main/docs/normal-form.md
