@@ -69,6 +69,21 @@ goal: low latency between input and output
 - https://doi.org/10.1007/978-3-642-04652-0_1 at https://sci-hub.ru/ - Delta ML - Self-adjusting Computation with Delta ML
 - https://github.com/MetaBorgCube/IceDust - A language for data modeling and incremental computing of derived values, with Java backend
 
+### incremental compilers
+
+- https://www.geeksforgeeks.org/incremental-compiler-in-compiler-design/
+
+#### incremental compiler generators
+
+- https://github.com/nfomon/shok/tree/master/statik - http://statik.rocks/ - https://doi.org/10.1145/2814189.2817278 at https://sci-hub.ru/ - Statik: an incremental compiler generator, Michael Biggs, 2015. Statik allows you to write a compiler as a sequence of "phases" of parsing. Each phase incrementally translates an input list to an output list. For example, your compiler might be constructed as the pipeline: lexer -> parser -> code-generator. The lexer incrementally translates source-code characters to tokens. The parser translates incremental changes to the token list, to an incrementally-updating parse tree. The code-generator responds to the changing parse tree by generating the bytecode for those changes, and emits the bytecode changes incrementally.
+
+### incremental code generators
+
+aka: incremental codegen
+
+- https://github.com/dotnet/roslyn/blob/main/docs/features/incremental-generators.md - C# compiler
+- https://andrewlock.net/creating-a-source-generator-part-1-creating-an-incremental-source-generator/
+
 ### differential dataflows
 
 focus on GraphQL
