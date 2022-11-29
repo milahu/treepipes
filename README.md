@@ -53,6 +53,9 @@ goal: low latency between input and output
 - https://github.com/kovasb/combinator - Experiments with fast term-rewriting in clojure
 - https://github.com/joshrule/term-rewriting-rs - term-rewriting in Rust
 - https://github.com/cisco/ChezScheme - fast Scheme interpreter
+- https://github.com/topics/term-rewriting
+- https://github.com/noprompt/meander - 800 stars - Clojure
+- https://github.com/usethesource/rascal - 300 stars - Java
 
 ### incremental computing
 
@@ -75,5 +78,7 @@ TODO
 ## see also
 
 - https://figwheel.org/docs/reloadable_code.html - live coding system in clojurescript, based on google closure compiler
+- https://github.com/vmware/differential-datalog - 1K stars - Java, Rust, Haskell - programming language for incremental computation
+  - based on https://github.com/TimelyDataflow/differential-dataflow - 2K stars - Rust - implementation of differential dataflow using timely dataflow on Rust
 - https://github.com/milahu/nix-eval-js/blob/main/docs/incremental-computing.md
 - https://github.com/milahu/nix-eval-js/blob/main/docs/normal-form.md
