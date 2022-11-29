@@ -40,6 +40,9 @@ goal: low latency between input and output
 
 - http://tree-sitter.github.io/tree-sitter/
 - https://lezer.codemirror.net/
+  - https://github.com/lezer-parser
+  - https://github.com/lezer-parser/lr - lezer runtime
+  - https://github.com/lezer-parser/generator - lezer parser generator
 
 ## incremental transforming
 
