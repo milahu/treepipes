@@ -68,9 +68,12 @@ goal: low latency between input and output
 
 ### differential dataflows
 
+focus on GraphQL
+
 - https://github.com/topics/differential-dataflows
-- https://github.com/sixthnormal/clj-3df - 300 stars - Clojure - Clojure(Script) client for Declarative Dataflow
 - https://github.com/comnik/declarative-dataflow - 300 stars - Rust - A reactive query engine built on differential dataflow
+  - https://www.nikolasgoebel.com/2018/09/13/incremental-datalog.html - a method of continuously executing Datalog queries over data streams, by compiling them to differential dataflows
+  - https://github.com/sixthnormal/clj-3df - 300 stars - Clojure - Clojure(Script) client for Declarative Dataflow
 
 ## incremental printing
 
