@@ -91,6 +91,8 @@ focus on GraphQL
 - https://github.com/paldepind/flyd - 2K stars - javascript
 - https://github.com/SodiumFRP/sodium-rust - 50 stars - rust - A Functional Reactive Programming (FRP) library for Rust
 - https://github.com/staltz/xstream - 2K stars - javascript - functional reactive stream library
+- https://github.com/cyclejs/cyclejs - 10K stars - javascript - functional and reactive JavaScript framework
+  - based on: [most](https://github.com/cujojs/most), [rxjs](https://github.com/ReactiveX/rxjs), [xstream](https://github.com/staltz/xstream)
 
 ## incremental printing
 
