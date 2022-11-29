@@ -75,12 +75,21 @@ focus on GraphQL
   - https://www.nikolasgoebel.com/2018/09/13/incremental-datalog.html - a method of continuously executing Datalog queries over data streams, by compiling them to differential dataflows
   - https://github.com/sixthnormal/clj-3df - 300 stars - Clojure - Clojure(Script) client for Declarative Dataflow
 
-### functional reactive programming
+### reactive programming
+
+- https://en.wikipedia.org/wiki/Reactive_programming
+- https://github.com/ReactiveX - a library for composing asynchronous and event-based programs using observable sequences
+  - https://github.com/ReactiveX/rxjs - 30K stars - javascript
+- https://github.com/sveltejs/svelte - 60K stars - javascript - compiler for reactive user interfaces
+- https://github.com/solidjs/solid - 20K stars - javascript - compiler for reactive user interfaces
+
+#### functional reactive programming
 
 - https://en.wikipedia.org/wiki/Functional_reactive_programming
 - https://github.com/search?o=desc&q=functional+reactive+programming&s=stars&type=Repositories
 - https://github.com/baconjs/bacon.js - 6K stars - javascript
 - https://github.com/paldepind/flyd - 2K stars - javascript
+- https://github.com/SodiumFRP/sodium-rust - 50 stars - rust - A Functional Reactive Programming (FRP) library for Rust
 
 ## incremental printing
 
