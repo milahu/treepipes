@@ -150,6 +150,8 @@ TODO
 
 "durchgriff" is a german term in electrical engineering
 
+in english: reachthrough, punchthrough, passthrough, passage, control ratio, penetration factor
+
 - https://de.wikipedia.org/wiki/Durchgriff
   - https://de.wikipedia.org/wiki/Durchgriff_(Elektrotechnik)
   - https://de.wikipedia.org/wiki/Zustandsraumdarstellung
