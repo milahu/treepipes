@@ -146,6 +146,29 @@ focus on GraphQL
 
 TODO
 
+## electrical engineering
+
+"durchgriff" is a german term in electrical engineering
+
+- https://de.wikipedia.org/wiki/Durchgriff
+  - https://de.wikipedia.org/wiki/Durchgriff_(Elektrotechnik)
+  - https://de.wikipedia.org/wiki/Zustandsraumdarstellung
+    - https://en.wikipedia.org/wiki/State-space_representation
+
+we can reduce complex (non-linear) systems to simple (linear) systems,
+by limiting the range of input parameters
+
+example: amplifier
+
+for high-fidelity signal amplfication,
+you want to run the amplifier in its linear range
+
+if you make it too loud then you get clipping,
+if you make it too silent then you get no output
+
+in the linear range, the amplifier has a linear "durchgriff" from input to output:
+a small change on the input will produce a small change on the output
+
 ## see also
 
 - https://github.com/milahu/nix-eval-js/blob/main/docs/incremental-computing.md
