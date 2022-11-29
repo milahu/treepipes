@@ -34,6 +34,8 @@ compiler 1 is typescript (tsc)
 
 compiler 2 is a web framework like svelte, solid, qwik ...
 
+goal: low latency between input and output
+
 ## incremental parsing
 
 - http://tree-sitter.github.io/tree-sitter/
