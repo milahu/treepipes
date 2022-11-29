@@ -59,17 +59,12 @@ goal: low latency between input and output
 
 ### incremental computing
 
-https://en.wikipedia.org/wiki/Incremental_computing
-
-https://github.com/janestreet/incremental - A library for incremental computations, in OCaml
-
-https://github.com/adapton/adapton.rust - General-purpose abstractions for incremental computing, in Rust
-
-https://github.com/carlssonia/adaptive - Library for incremental computing, in Haskell
-
-https://doi.org/10.1007/978-3-642-04652-0_1 at https://sci-hub.ru/ - Delta ML - Self-adjusting Computation with Delta ML
-
-https://github.com/MetaBorgCube/IceDust - A language for data modeling and incremental computing of derived values, with Java backend
+- https://en.wikipedia.org/wiki/Incremental_computing
+- https://github.com/janestreet/incremental - A library for incremental computations, in OCaml
+- https://github.com/adapton/adapton.rust - General-purpose abstractions for incremental computing, in Rust
+- https://github.com/carlssonia/adaptive - Library for incremental computing, in Haskell
+- https://doi.org/10.1007/978-3-642-04652-0_1 at https://sci-hub.ru/ - Delta ML - Self-adjusting Computation with Delta ML
+- https://github.com/MetaBorgCube/IceDust - A language for data modeling and incremental computing of derived values, with Java backend
 
 ### differential dataflows
 
