@@ -71,6 +71,12 @@ https://doi.org/10.1007/978-3-642-04652-0_1 at https://sci-hub.ru/ - Delta ML - 
 
 https://github.com/MetaBorgCube/IceDust - A language for data modeling and incremental computing of derived values, with Java backend
 
+### differential dataflows
+
+- https://github.com/topics/differential-dataflows
+- https://github.com/sixthnormal/clj-3df - 300 stars - Clojure - Clojure(Script) client for Declarative Dataflow
+- https://github.com/comnik/declarative-dataflow - 300 stars - Rust - A reactive query engine built on differential dataflow
+
 ## incremental printing
 
 TODO
